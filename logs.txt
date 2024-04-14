@@ -1,0 +1,35 @@
+commit 28f34708a03629568a4eeb0948e5dcc5e789edbd (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Gorazd Biskoski <gorazdbiskoskii@gmail.com>
+Date:   Sun Apr 14 21:40:19 2024 +0200
+
+    Call method makeBigStringFrom in main class.
+
+commit 95515f4f7485be687ce20c0fc37c4300735c1f5e
+Author: Gorazd Biskoski <gorazdbiskoskii@gmail.com>
+Date:   Sun Apr 14 21:38:31 2024 +0200
+
+     Fix wrong condition in makeBigStringFrom.
+
+commit e3ff4854c9f41deb9374303a7279859ca0052f96 (origin/bug1, bug1)
+Author: Gorazd Biskoski <gorazdbiskoskii@gmail.com>
+Date:   Sun Apr 14 21:39:23 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit 5e284858e8ad53a2db7803b494645a6518d003a7
+Author: Gorazd Biskoski <gorazdbiskoskii@gmail.com>
+Date:   Sun Apr 14 21:37:49 2024 +0200
+
+     Fix wrong condition in filterOddLengthStrings.
+
+commit 07f659a8f8a572b3798a15f5f9468466a9a0c882
+Author: Gorazd Biskoski <gorazdbiskoskii@gmail.com>
+Date:   Sun Apr 14 21:31:18 2024 +0200
+
+    Add starter code
+
+commit d208b0c176abcfaafd78cf54bfa1be54f81bc068
+Author: Gorazd Biskoski <gorazdbiskoskii@gmail.com>
+Date:   Sun Apr 14 21:19:38 2024 +0200
+
+    Initial commit
